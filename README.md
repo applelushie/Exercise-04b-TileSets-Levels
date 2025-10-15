@@ -12,3 +12,9 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Created by
 Nathan Mishler
+
+## Edited by
+Ella Beihold
+
+## GithubUser
+applelushie
